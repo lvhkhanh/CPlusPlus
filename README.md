@@ -1,5 +1,6 @@
 # CPlusPlus
 
+* [Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2/home/welcome)
 * [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3/home/welcome)
 
 Refs
