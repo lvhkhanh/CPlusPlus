@@ -1,5 +1,17 @@
 # CPlusPlus
 
+* [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+* [C++ Tutorial](https://www.sololearn.com/Play/CPlusPlus)
+* https://www.w3schools.com/cpp/
+* https://www.cplusplus.com/
+* https://isocpp.org/
+* https://www.tutorialspoint.com/cplusplus/index.htm
+* https://www.programiz.com/cpp-programming
+* https://www.learncpp.com/
+* https://en.cppreference.com/w/
+* https://en.wikipedia.org/wiki/C%2B%2B
+
+
 * [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1/home/welcome)
 * [Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2/home/welcome)
 * [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3/home/welcome)
