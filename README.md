@@ -1,13 +1,14 @@
 # CPlusPlus
 
-* [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [ ] [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 * [C++ Tutorial](https://www.sololearn.com/Play/CPlusPlus)
 * https://www.w3schools.com/cpp/
-* https://www.cplusplus.com/
+- [ ] https://cplusplus.com/doc/tutorial/
 * https://isocpp.org/
 * https://www.tutorialspoint.com/cplusplus/index.htm
 * https://www.programiz.com/cpp-programming
 * https://www.learncpp.com/
+- [ ] https://www.onlinegdb.com/online_c++_compiler
 * https://en.cppreference.com/w/
 * https://en.wikipedia.org/wiki/C%2B%2B
 
